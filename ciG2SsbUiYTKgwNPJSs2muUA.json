@@ -6,5 +6,13 @@
     "expires": "",
     "created_at": "",
     "blocked": false
+  },
+  {
+    "uuid": "1",
+    "password": "Wm6b7bSG29zpl2RO",
+    "hwid": "",
+    "expires": "",
+    "created_at": "",
+    "blocked": false
   }
 ]
