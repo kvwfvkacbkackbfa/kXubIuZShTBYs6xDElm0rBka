@@ -1,10 +1,11 @@
 [
   {
-    "uuid": "0",
+    "uuid": "1",
     "password": "2",
     "hwid": "",
     "expires": "2125-01-01",
     "created_at": "",
-    "blocked": false
+    "blocked": false,
+    "originalUuid": "1"
   }
 ]
