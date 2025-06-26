@@ -1,11 +1,11 @@
 [
   {
-    "uuid": "0",
-    "password": "123",
+    "uuid": "1488",
+    "password": "pizda",
     "hwid": "MTc4QkZCRkYwMDgwMEY4MkRlZmF1bHRzdHJpbmdEZWZhdWx0c3RyaW5nV0RXQ0M2WTRQTDRYWUUxMDAxOTA0NQ==",
     "expires": "2125-01-01",
     "created_at": "2025-06-25",
     "blocked": false,
-    "originalUuid": "0"
+    "originalUuid": "1488"
   }
 ]
