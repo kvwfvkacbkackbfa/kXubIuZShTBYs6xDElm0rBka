@@ -5,7 +5,7 @@
     "hwid": "",
     "expires": "2125-01-01",
     "created_at": "2025-06-26",
-    "blocked": true,
+    "blocked": false,
     "originalUuid": "0"
   }
 ]
