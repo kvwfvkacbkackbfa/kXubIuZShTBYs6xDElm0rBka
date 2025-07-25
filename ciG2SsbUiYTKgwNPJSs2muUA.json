@@ -11,9 +11,10 @@
   {
     "uuid": "1",
     "password": "Wbf1ETbM7kcF3022",
-    "hwid": "",
+    "hwid": "1",
     "expires": "",
     "created_at": "",
-    "blocked": false
+    "blocked": false,
+    "originalUuid": "1"
   }
 ]
