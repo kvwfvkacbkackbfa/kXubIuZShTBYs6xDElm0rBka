@@ -1,10 +1,11 @@
 [
   {
     "uuid": "0",
-    "password": "6uXBwZjtXpoLF9EI",
+    "password": "123",
     "hwid": "MTc4QkZCRkYwMDgwMEY4MkRlZmF1bHRzdHJpbmdEZWZhdWx0c3RyaW5nV0RXQ0M2WTRQTDRYWUUxMDAxOTA0NQ==",
-    "expires": "1900-01-08",
+    "expires": "2125-12-31",
     "created_at": "1900-01-01",
-    "blocked": false
+    "blocked": false,
+    "originalUuid": "0"
   }
 ]
