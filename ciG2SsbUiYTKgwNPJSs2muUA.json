@@ -19,10 +19,11 @@
   },
   {
     "uuid": "1337",
-    "password": "68aMEGa8Zy5DzUXI",
+    "password": "733101337",
     "hwid": "",
     "expires": "",
     "created_at": "",
-    "blocked": false
+    "blocked": false,
+    "originalUuid": "1337"
   }
 ]
