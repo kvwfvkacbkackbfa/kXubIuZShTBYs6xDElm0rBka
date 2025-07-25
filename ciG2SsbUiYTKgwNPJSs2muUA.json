@@ -16,5 +16,13 @@
     "created_at": "",
     "blocked": false,
     "originalUuid": "1"
+  },
+  {
+    "uuid": "1337",
+    "password": "68aMEGa8Zy5DzUXI",
+    "hwid": "",
+    "expires": "",
+    "created_at": "",
+    "blocked": false
   }
 ]
