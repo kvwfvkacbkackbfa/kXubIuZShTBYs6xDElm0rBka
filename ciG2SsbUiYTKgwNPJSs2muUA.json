@@ -14,5 +14,13 @@
     "expires": "",
     "created_at": "",
     "blocked": false
+  },
+  {
+    "uuid": "1337",
+    "password": "1337",
+    "hwid": "",
+    "expires": "",
+    "created_at": "",
+    "blocked": false
   }
 ]
