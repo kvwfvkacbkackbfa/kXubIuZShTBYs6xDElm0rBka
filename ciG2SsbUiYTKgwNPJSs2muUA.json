@@ -5,8 +5,7 @@
     "hwid": "1",
     "expires": "",
     "created_at": "",
-    "blocked": false,
-    "originalUuid": "0"
+    "blocked": false
   },
   {
     "uuid": "1",
@@ -14,16 +13,14 @@
     "hwid": "1",
     "expires": "",
     "created_at": "",
-    "blocked": false,
-    "originalUuid": "1"
+    "blocked": false
   },
   {
     "uuid": "1337",
     "password": "733101337",
-    "hwid": "",
-    "expires": "",
-    "created_at": "",
-    "blocked": false,
-    "originalUuid": "1337"
+    "hwid": "MTc4QkZCRkYwMDgwMEY4MkRlZmF1bHRzdHJpbmdEZWZhdWx0c3RyaW5nV0RXQ0M2WTRQTDRYWUUxMDAxOTA0NQ==",
+    "expires": "2025-08-01",
+    "created_at": "2025-07-25",
+    "blocked": false
   }
 ]
