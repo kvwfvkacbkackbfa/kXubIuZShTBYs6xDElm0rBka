@@ -10,10 +10,9 @@
   {
     "uuid": "1337",
     "password": "1337",
-    "hwid": "",
-    "expires": "",
-    "created_at": "",
-    "blocked": false,
-    "originalUuid": "1337"
+    "hwid": "MTc4QkZCRkYwMDgwMEY4MkRlZmF1bHRzdHJpbmdEZWZhdWx0c3RyaW5nV0RXQ0M2WTRQTDRYWUUxMDAxOTA0NQ==",
+    "expires": "2025-08-04",
+    "created_at": "2025-07-28",
+    "blocked": false
   }
 ]
