@@ -14,5 +14,13 @@
     "expires": "2025-08-04",
     "created_at": "2025-07-28",
     "blocked": false
+  },
+  {
+    "uuid": "1",
+    "password": "QFwWgbJWwHA64rM3",
+    "hwid": "",
+    "expires": "",
+    "created_at": "",
+    "blocked": false
   }
 ]
